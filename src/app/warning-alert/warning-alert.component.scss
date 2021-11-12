@@ -1,0 +1,17 @@
+.warning-alert {
+  &__container {
+    padding: 20px;
+    border: 2px solid crimson;
+    border-radius: 20px;
+    text-align: center;
+    max-width: 200px;
+  }
+
+  &__header {
+    color: crimson;
+  }
+
+  &__message {
+    color: black;
+  }
+}
